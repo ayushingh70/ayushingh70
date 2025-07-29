@@ -1,63 +1,76 @@
-<h1 align="center">👋 Hey there, I'm Ayush Singh</h1>
+<h1 align="center">👋 Hello, I'm Ayush Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E3F2&center=true&vCenter=true&width=500&lines=Native+Android+Developer;Jetpack+Compose+%7C+Kotlin+%7C+Java;Loves+Crafting+Clean+UI+UX;Building+MovieSaga+App;Backend:+Firebase+%7C+SQLite+%7C+MySQL" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E6FF&center=true&vCenter=true&width=440&lines=Native+Android+Developer;Jetpack+Compose+Enthusiast;Loves+building+clean+UI+UX;Always+learning+%26+improving" alt="Typing Intro" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
-
-- 💻 Passionate **Android Developer** focused on building elegant and user-friendly apps  
-- 📱 Expert in **Kotlin**, **Java**, **XML**, and **Jetpack Compose**  
-- 🔧 Backend familiarity with **Firebase**, **SQLite**, and **MySQL**  
-- 🧠 Currently building: [**MovieSaga**](https://github.com/ayushingh70/MovieSaga) – a powerful and clean app to explore trending movies & series  
-- 🎯 I love learning, debugging, and shipping quality code  
-- 📍 Based in India 🇮🇳
+- 👨‍💻 I'm a passionate **Native Android Developer** from India 🇮🇳  
+- 🛠️ Skilled in **Kotlin**, **Java**, **XML**, **Jetpack Compose**, **Node.js**  
+- 🧩 Backend experience with **Firebase**, **SQLite**, and **MySQL**  
+- 🎬 Currently building: [**MovieSaga**](https://github.com/ayushingh70/MovieSaga)  
+- 💡 I enjoy debugging, creating smooth UI, and pushing creative ideas into reality  
 
 ---
 
-### 🛠️ My Tech Stack
+### 🔨 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,xml,compose,firebase,sqlite,mysql,nodejs,git,github" alt="Tech stack icons" />
-</p>
-
-#### 📌 Additional Tools & Skills
-- ✅ Jetpack Libraries (Navigation, LiveData, ViewModel, Room, etc.)
-- ✅ Glide / Coil for image loading
-- ✅ Firebase Auth & Realtime DB
-- ✅ REST APIs using Retrofit
-- ✅ MVVM Architecture + Clean UI Design
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushingh70&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushingh70&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,xml,compose,firebase,nodejs,mysql,sqlite,git,github" alt="Tech stack icons" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 🚀 Featured Project: MovieSaga
+
+> A sleek and powerful app to discover trending Movies & Series using the TMDB API.  
+> Features include trailers, cast, user ratings, and comment system — built with Firebase and Jetpack Compose.
+
+<p align="center">
+  <a href="https://github.com/ayushingh70/MovieSaga">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushingh70&repo=MovieSaga&theme=github_dark&border_color=0d1117" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayushingh70&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushingh70&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushingh70&layout=compact&theme=github_dark&hide_border=true" width="49%" />
+</p>
+
+---
+
+### 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushingh70&theme=darkhub&column=7&margin-w=10&margin-h=10" alt="Trophies" />
+</p>
+
+---
+
+### 🌐 Let's Connect
 
 <p align="left">
   <a href="mailto:aniketom70@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ayush-singh-769b61315"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ayush-singh-769b61315"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/anii_ayush"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-### ✨ Fun Fact
-
-> I once spent 10+ hours fixing a crashing RecyclerView…  
-> It was painful. But worth it. 😄💥
+### ⚡ Fun Fact
+> I once spent 10+ hours fixing a RecyclerView scroll crash —  
+> I *almost lost my sanity*, but it felt amazing when it finally worked 😄
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E6FF&height=100&section=footer"/>
 </p>
