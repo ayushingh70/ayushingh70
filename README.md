@@ -10,8 +10,18 @@
 - 👨‍💻 I'm a passionate **Native Android Developer** from India 🇮🇳  
 - 🛠️ Skilled in **Kotlin**, **Java**, **XML**, **Jetpack Compose**, **Node.js**  
 - 🧩 Backend experience with **Firebase**, **SQLite**, and **MySQL**  
-- 🎬 Currently building: [**MovieSaga**](https://github.com/ayushingh70/MovieSaga)  
+- 🎬 I've developed [**MovieSaga**](https://github.com/ayushingh70/MovieSaga) – a full-featured movie/series discovery app  
 - 💡 I enjoy debugging, creating smooth UI, and pushing creative ideas into reality  
+
+---
+
+### 🚀 Open to Work
+I’m currently open to:
+- 💼 **Android Development Internships**
+- 🤝 **Freelance projects**
+- 🌱 Collaborating on exciting Android apps
+
+📬 Feel free to reach out through [email](mailto:aniketom70@gmail.com) or [LinkedIn](https://linkedin.com/in/ayush-singh-769b61315)!
 
 ---
 
@@ -25,8 +35,8 @@
 
 ### 🚀 Featured Project: MovieSaga
 
-> A sleek and powerful app to discover trending Movies & Series using the TMDB API.  
-> Features include trailers, cast, user ratings, and comment system — built with Firebase and Jetpack Compose.
+> A sleek and powerful Android app to discover trending Movies & Series using the TMDB API.  
+> Features: trailers, cast info, Firebase-based comments & user ratings, watchlists, and more.
 
 <p align="center">
   <a href="https://github.com/ayushingh70/MovieSaga">
@@ -47,10 +57,10 @@
 
 ---
 
-### 🏅 GitHub Trophies
+### 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushingh70&theme=darkhub&column=7&margin-w=10&margin-h=10" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushingh70&theme=github-compact&hide_border=true&color=00e6ff&line=00e6ff&bg_color=0d1117" />
 </p>
 
 ---
