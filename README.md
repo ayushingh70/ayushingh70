@@ -57,11 +57,11 @@ I’m currently open to:
 
 ---
 
-### 🔥 Contribution Graph
+### 📱 Currently Working On
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushingh70&theme=github-compact&hide_border=true&color=00e6ff&line=00e6ff&bg_color=0d1117" />
-</p>
+- 🌟 **Enhancing MovieSaga** with features like score charts, user profiles & premium plans  
+- 🧠 Exploring advanced UI with **Jetpack Compose animations**  
+- 📚 Learning about **modular architecture** and **clean code** in Android development  
 
 ---
 
