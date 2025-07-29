@@ -1,39 +1,47 @@
-<h1 align="center">Hey 👋, I'm Ayush Singh</h1>
+<h1 align="center">👋 Hey there, I'm Ayush Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=6AE3F4&width=435&lines=Native+Android+Developer;Kotlin+%7C+Java+%7C+Node.js;Jetpack+Compose+Lover;Building+MovieSaga+App" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E3F2&center=true&vCenter=true&width=500&lines=Native+Android+Developer;Jetpack+Compose+%7C+Kotlin+%7C+Java;Loves+Crafting+Clean+UI+UX;Building+MovieSaga+App;Backend:+Firebase+%7C+SQLite+%7C+MySQL" alt="Typing Intro" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧑‍💻 About Me
 
-- 🚀 Passionate and self-driven **Native Android Developer**
-- 💡 Strong hands-on experience in **Kotlin**, **Java**, **XML**, and **Jetpack Compose**
-- 🔧 Backend skills in **Node.js**, **Firebase**, and **Realtime Database**
-- 🎯 Currently building [**MovieSaga**](https://github.com/ayushingh70/MovieSaga) – a sleek app to discover trending movies & series  
-- 📚 Always curious about new tech, UI design, and performance optimization
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,xml,nodejs,firebase,git,github" alt="Tech Stack" />
-</p>
+- 💻 Passionate **Android Developer** focused on building elegant and user-friendly apps  
+- 📱 Expert in **Kotlin**, **Java**, **XML**, and **Jetpack Compose**  
+- 🔧 Backend familiarity with **Firebase**, **SQLite**, and **MySQL**  
+- 🧠 Currently building: [**MovieSaga**](https://github.com/ayushingh70/MovieSaga) – a powerful and clean app to explore trending movies & series  
+- 🎯 I love learning, debugging, and shipping quality code  
+- 📍 Based in India 🇮🇳
 
 ---
 
-### 📈 GitHub Stats
+### 🛠️ My Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushingh70&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushingh70&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,xml,compose,firebase,sqlite,mysql,nodejs,git,github" alt="Tech stack icons" />
+</p>
+
+#### 📌 Additional Tools & Skills
+- ✅ Jetpack Libraries (Navigation, LiveData, ViewModel, Room, etc.)
+- ✅ Glide / Coil for image loading
+- ✅ Firebase Auth & Realtime DB
+- ✅ REST APIs using Retrofit
+- ✅ MVVM Architecture + Clean UI Design
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushingh70&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushingh70&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
+### 📫 Connect With Me
 
 <p align="left">
   <a href="mailto:aniketom70@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -43,8 +51,13 @@
 
 ---
 
-### 🔥 Fun Fact
+### ✨ Fun Fact
 
-> I once spent **10+ hours** debugging an API crash and loved every second of it 😄
+> I once spent 10+ hours fixing a crashing RecyclerView…  
+> It was painful. But worth it. 😄💥
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=100&section=footer"/>
+</p>
