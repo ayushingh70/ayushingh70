@@ -7,7 +7,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 👨‍💻 I'm a passionate **Native Android Developer** from India 🇮🇳  
+- 👨‍💻 I'm a passionate **Native Android Developer** 
 - 🛠️ Skilled in **Kotlin**, **Java**, **XML**, **Jetpack Compose**, **Node.js**  
 - 🧩 Backend experience with **Firebase**, **SQLite**, and **MySQL**  
 - 🎬 I've developed [**MovieSaga**](https://github.com/ayushingh70/MovieSaga) – a full-featured movie/series discovery app  
@@ -18,7 +18,7 @@
 ### 🚀 Open to Work
 I’m currently open to:
 - 💼 **Android Development Internships**
-- 🤝 **Freelance projects**
+- 🤝 **Want to work with Professional and Experienced Team**
 - 🌱 Collaborating on exciting Android apps
 
 📬 Feel free to reach out through [email](mailto:aniketom70@gmail.com) or [LinkedIn](https://linkedin.com/in/ayush-singh-769b61315)!
@@ -36,7 +36,7 @@ I’m currently open to:
 ### 🚀 Featured Project: MovieSaga
 
 > A sleek and powerful Android app to discover trending Movies & Series using the TMDB API.  
-> Features: trailers, cast info, Firebase-based comments & user ratings, watchlists, and more.
+> Features: trailers, cast info, Firebase-based comments & user ratings, watchlists, and much more.
 
 <p align="center">
   <a href="https://github.com/ayushingh70/MovieSaga">
