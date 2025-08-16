@@ -7,8 +7,8 @@
 ---
 
 ### 🧑‍💻 About Me
-- 👨‍💻 I'm a passionate **Native Android Developer** 
-- 🛠️ Skilled in **Kotlin**, **Java**, **XML**, **Jetpack Compose**, **Node.js**  
+- 👨‍💻 I'm a passionate **Android/Flutter Developer** 
+- 🛠️ Skilled in **Kotlin**, **Java**, **Flutter(Dart)**, **XML**, **Jetpack Compose**, **Node.js**  
 - 🧩 Backend experience with **Firebase**, **SQLite**, and **MySQL**  
 - 🎬 I've developed [**MovieSaga**](https://github.com/ayushingh70/MovieSaga) – a full-featured movie/series discovery app  
 - 💡 I enjoy debugging, creating smooth UI, and pushing creative ideas into reality  
@@ -17,9 +17,8 @@
 
 ### 🚀 Open to Work
 I’m currently open to:
-- 💼 **Android Development Internships**
+- 💼 **Internships** , **Traine** , **Job**
 - 🤝 **Want to work with Professional and Experienced Team**
-- 🌱 Collaborating on exciting Android apps
 
 📬 Feel free to reach out through [email](mailto:aniketom70@gmail.com) or [LinkedIn](https://linkedin.com/in/ayush-singh-769b61315)!
 
@@ -28,7 +27,7 @@ I’m currently open to:
 ### 🔨 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,xml,compose,firebase,nodejs,mysql,sqlite,git,github" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,dart,xml,compose,firebase,nodejs,mysql,sqlite,git,github" alt="Tech stack icons" />
 </p>
 
 ---
