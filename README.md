@@ -18,7 +18,7 @@
 ### 🚀 Open to Work
 I’m currently open to:
 - 💼 **Internships** , **Traine** , **Job**
-- 🤝 **Want to work with Professional and Experienced Team**
+- 🤝 **Want to work with Professional and Experienced Team >>**
 
 📬 Feel free to reach out through [email](mailto:aniketom70@gmail.com) or [LinkedIn](https://linkedin.com/in/ayush-singh-769b61315)!
 
