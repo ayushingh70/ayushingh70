@@ -51,7 +51,8 @@ I’m currently open to:
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ayushingh70&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=ayushingh70&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=3600" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushingh70&layout=compact&theme=github_dark&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushingh70&layout=compact&theme=github_dark&hide_border=true&cache_seconds=3600" width="49%" />
+
 </p>
 
 ---
