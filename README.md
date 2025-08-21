@@ -1,23 +1,23 @@
-<h1 align="center">👋 Hello, I'm Ayush Singh</h1>
+<h1 align="center">Hello, I'm Ayush Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E6FF&center=true&vCenter=true&width=440&lines=Native+Android+Developer;Jetpack+Compose+Enthusiast;Loves+building+clean+UI+UX;Always+learning+%26+improving" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E6FF&center=true&vCenter=true&width=440&lines=Android+/+Flutter+Developer;Jetpack+Compose+Enthusiast;Loves+building+clean+UI+UX;Always+learning+%26+improving" alt="Typing Intro" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
-- 👨‍💻 I'm a passionate **Android/Flutter Developer** 
-- 🛠️ Skilled in **Kotlin**, **Java**, **Flutter(Dart)**, **XML**, **Jetpack Compose**, **Node.js**  
-- 🧩 Backend experience with **Firebase**, **SQLite**, and **MySQL**  
-- 🎬 I've developed [**MovieSaga**](https://github.com/ayushingh70/MovieSaga) – a full-featured movie/series discovery app  
-- 💡 I enjoy debugging, creating smooth UI, and pushing creative ideas into reality  
+- I'm a passionate **Android/Flutter Developer** 
+- Skilled in **Kotlin**, **Java**, **Flutter(Dart)**, **XML**, **Jetpack Compose**, **Node.js**  
+- Backend experience with **Firebase**, **SQLite**, and **MySQL**  
+- I've developed [**MovieSaga**](https://github.com/ayushingh70/MovieSaga) – a full-featured movie/series discovery app  
+- I enjoy debugging, creating smooth UI, and pushing creative ideas into reality  
 
 ---
 
 ### 🚀 Open to Work
 I’m currently open to:
-- 💼 **Internships** , **Traine** , **Job**
+- 💼 **Internships** , **Trainee** , **Job**
 - 🤝 **Want to work with Professional and Experienced Team >>**
 
 📬 Feel free to reach out through [email](mailto:aniketom70@gmail.com) or [LinkedIn](https://linkedin.com/in/ayush-singh-769b61315)!
@@ -59,9 +59,9 @@ I’m currently open to:
 
 ### 📱 Currently Working On
 
-- 🌟 **Enhancing MovieSaga** with features like score charts, user profiles & premium plans  
-- 🧠 Exploring advanced UI with **Jetpack Compose animations**  
-- 📚 Learning about **modular architecture** and **clean code** in Android development  
+- **Enhancing MovieSaga** with features like score charts, user profiles & premium plans  
+- Exploring advanced UI with **Jetpack Compose animations**  
+- Learning about **modular architecture** and **clean code** in Android development  
 
 ---
 
