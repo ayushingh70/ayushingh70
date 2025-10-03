@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Ayush Singh</h1>
+<h1 align="center">Hi, I'm Ayush Singh 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E6FF&center=true&vCenter=true&width=440&lines=Android+/+Flutter+Developer;Jetpack+Compose+Enthusiast;Loves+building+clean+UI+UX;Always+learning+%26+improving" alt="Typing Intro" />
@@ -7,24 +7,26 @@
 ---
 
 ### 🧑‍💻 About Me
-- I'm a passionate **Android/Flutter Developer** 
-- Skilled in **Kotlin**, **Java**, **Flutter(Dart)**, **XML**, **Jetpack Compose**, **Node.js**  
-- Backend experience with **Firebase**, **SQLite**, and **MySQL**  
-- I've developed [**MovieSaga**](https://github.com/ayushingh70/MovieSaga) – a full-featured movie/series discovery app  
-- I enjoy debugging, creating smooth UI, and pushing creative ideas into reality  
+
+- Passionate **Android & Flutter Developer** from India 🇮🇳  
+- Specialized in **Kotlin**, **Dart**, **Jetpack Compose**, and **Flutter UI/UX**  
+- Backend experience with **Firebase**, **SQLite**, **MySQL**, and **Node.js**  
+- Creator of [**MovieSaga**](https://github.com/ayushingh70/MovieSaga) — a full-featured movie discovery app  
+- I thrive on debugging, clean architecture, and turning creative ideas into polished products  
 
 ---
 
 ### 🚀 Open to Work
-I’m currently open to:
-- 💼 **Internships** , **Trainee** , **Job**
-- 🤝 **Want to work with Professional and Experienced Team >>**
 
-📬 Feel free to reach out through [email](mailto:aniketom70@gmail.com) or [LinkedIn](https://linkedin.com/in/ayush-singh-769b61315)!
+I’m actively seeking:
+- 💼 **Internships**, **Junior Roles**, or **Collaborative Projects**
+- 🤝 A chance to work with a **professional, experienced team** that values clean code and creative thinking
+
+📬 Reach out via [email](mailto:aniketom70@gmail.com) or [LinkedIn](https://linkedin.com/in/ayush-singh-769b61315)
 
 ---
 
-### 🔨 Tech Stack
+### 🔧 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,dart,xml,compose,firebase,nodejs,mysql,sqlite,git,github" alt="Tech stack icons" />
@@ -32,10 +34,10 @@ I’m currently open to:
 
 ---
 
-### 🚀 Featured Project: MovieSaga
+### 🎬 Featured Project: MovieSaga
 
-> A sleek and powerful Android app to discover trending Movies & Series using the TMDB API.  
-> Features: trailers, cast info, Firebase-based comments & user ratings, watchlists, and much more.
+> A sleek Android app to discover trending Movies & Series using the TMDB API.  
+> Features include trailers, cast info, Firebase-powered comments & ratings, watchlists, and more.
 
 <p align="center">
   <a href="https://github.com/ayushingh70/MovieSaga">
@@ -45,27 +47,26 @@ I’m currently open to:
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ayushingh70&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=ayushingh70&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=3600" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushingh70&layout=compact&theme=github_dark&hide_border=true&cache_seconds=3600" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushingh70&layout=compact&theme=github_dark&hide_border=true&cache_seconds=3600" />
 </p>
 
 ---
 
-### 📱 Currently Working On
+### 🛠️ Currently Building
 
-- **Enhancing MovieSaga** with features like score charts, user profiles & premium plans  
-- Exploring advanced UI with **Jetpack Compose animations**  
-- Learning about **modular architecture** and **clean code** in Android development  
+- 🚀 **MovieSaga v2** — score charts, user profiles, premium plans  
+- 🎨 Advanced UI with **Jetpack Compose animations**  
+- 🧱 Exploring **modular architecture** and **clean code principles**  
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Connect With Me
 
 <p align="left">
   <a href="mailto:aniketom70@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -76,8 +77,9 @@ I’m currently open to:
 ---
 
 ### ⚡ Fun Fact
+
 > I once spent 10+ hours fixing a RecyclerView scroll crash —  
-> I *almost lost my sanity*, but it felt amazing when it finally worked 😄
+> I *almost lost my sanity*, but the moment it worked… pure bliss 😄
 
 ---
 
